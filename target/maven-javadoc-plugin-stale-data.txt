@@ -1,0 +1,27 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-21\bin\javadoc.exe" @options @packages"
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\allclasses-index.html = 1747992357394
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\allpackages-index.html = 1747992357422
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\copy.svg = 1747992357536
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\element-list = 1747992357069
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\help-doc.html = 1747992357520
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\index-all.html = 1747992357483
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\index.html = 1747992357317
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\link.svg = 1747992357540
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\member-search-index.js = 1747992357433
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\module-search-index.js = 1747992357426
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\options = 1747992334357
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\overview-summary.html = 1747992357495
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\overview-tree.html = 1747992357300
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\package-search-index.js = 1747992357429
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\packages = 1747992334360
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\script.js = 1747992357533
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\search-page.js = 1747992357553
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\search.html = 1747992357491
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\search.js = 1747992357548
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\serialized-form.html = 1747992357183
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\stylesheet.css = 1747992357527
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\tag-search-index.js = 1747992357435
+D:\BDD_Framework\BDD_YMSAutomation\target\apidocs\type-search-index.js = 1747992357431

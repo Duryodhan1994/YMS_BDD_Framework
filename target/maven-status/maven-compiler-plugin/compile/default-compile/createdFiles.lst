@@ -1,0 +1,3 @@
+com\gurock\testrail\APIClient.class
+com\gurock\testrail\APIException.class
+com\qa\testrailmanager\TestRailManager.class
